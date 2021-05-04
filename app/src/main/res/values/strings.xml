@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Selfie</string>
+    <string name="title_activity_selfie">Selfie</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="take_pic">take pic</string>
+    <string name="error_no_cam">Your phone has no camera</string>
+</resources>
